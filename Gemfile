@@ -3,7 +3,11 @@ source 'http://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0.beta1' 
 gem 'bootstrap-sass', '2.3.0.1'
-gem 'bcrypt-ruby', '3.0.1'
+gem 'bcrypt-ruby', '3.0.1'  
+gem 'faker', '1.1.2' 
+gem 'will_paginate', '3.0.4'
+gem 'bootstrap-will_paginate', '0.0.9'
+
 
 
 
